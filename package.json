@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-gulp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.10.4",
+    "gulp": "^3.8.10"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcaramelo/bootstrap-gulp-node.git"
+  },
+  "author": "David Caramelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcaramelo/bootstrap-gulp-node/issues"
+  },
+  "homepage": "https://github.com/dcaramelo/bootstrap-gulp-node"
+}
