@@ -1,4 +1,3 @@
-
 var app = require('./app/js/hello');
 
 app.set('port', (process.env.PORT || 5000));
