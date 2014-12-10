@@ -8,7 +8,11 @@
     "gulp": "^3.8.10"
   },
   "devDependencies": {
-    "gulp-nodemon": "^1.0.4"
+    "gulp-karma": "0.0.4",
+    "gulp-nodemon": "^1.0.4",
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.2.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
